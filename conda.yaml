@@ -1,0 +1,9 @@
+name: sampleDemo
+channels:
+  - defaults
+dependencies:
+  - python=3.7.13=h6244533_0
+  - pip
+  - pip:
+    - mlflow==1.26.0
+

@@ -6,4 +6,6 @@ dependencies:
   - pip
   - pip:
     - mlflow==1.26.0
+    - scikit-learn
+    - pandas
 
